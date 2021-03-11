@@ -1,0 +1,31 @@
+.home{
+    background-image: linear-gradient(rgb(240, 226, 226), rgb(221, 221, 207), rgb(217, 218, 224));
+
+}
+
+.msg::before{
+    content:'' ; 
+    background-image:url(https://www.flaticon.com/svg/vstatic/svg/59/59149.svg?token=exp=1615390368~hmac=1c34a9ac03235c4f993d1780d53a0e35);
+    object-fit: fill;
+    background-size: 50px;
+    width: 50px;
+    margin-inline-end: 20px;
+    height: 50px;
+    display: inline-block;
+}
+
+img{
+    width:100%;
+}
+.toy-logo{
+    width: 350px;
+    height: 350px;
+    border-radius: 20%;
+}
+
+.msg{
+    font-family: cursive;
+    font-size: 70px;
+}
+
+

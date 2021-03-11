@@ -1,0 +1,11 @@
+@import './cmps/app.css';
+@import './cmps//toyList.css';
+@import './cmps//toyPreview.css';
+@import './cmps/toyFilter.css';
+body {
+    background-color: rgb(226, 224, 224);
+
+}
+html{
+    scroll-behavior: smooth;
+}
